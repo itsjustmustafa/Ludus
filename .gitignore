@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Node stuff
+node_modules/
+
+# Discord stuff
+config.json

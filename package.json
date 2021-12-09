@@ -1,0 +1,26 @@
+{
+  "name": "ludus",
+  "version": "1.0.0",
+  "description": "In-Discord Gaming Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjustmustafa/Ludus.git"
+  },
+  "author": "Mustafa Barodawala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsjustmustafa/Ludus/issues"
+  },
+  "homepage": "https://github.com/itsjustmustafa/Ludus#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.3.1",
+    "node-fetch": "^2.6.6"
+  }
+}
